@@ -1,0 +1,3 @@
+module Colors
+
+singleton PaletaCores 1.0 PaletaCores.qml 

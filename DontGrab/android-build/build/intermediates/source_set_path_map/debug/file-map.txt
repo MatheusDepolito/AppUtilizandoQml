@@ -1,0 +1,9 @@
+org.qtproject.example.DontGrab-java-0 C:\Qt\6.4.0\android_x86\src\android\java\res
+org.qtproject.example.DontGrab-pngs-1 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\build\generated\res\pngs\debug
+org.qtproject.example.DontGrab-resValues-2 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\build\generated\res\resValues\debug
+org.qtproject.example.DontGrab-rs-3 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\build\generated\res\rs\debug
+org.qtproject.example.DontGrab-mergeDebugResources-4 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+org.qtproject.example.DontGrab-mergeDebugResources-5 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+org.qtproject.example.DontGrab-merged_res-6 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\build\intermediates\merged_res\debug
+org.qtproject.example.DontGrab-android-build-7 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\res
+org.qtproject.example.DontGrab-debug-8 C:\Users\Matheus\Desktop\ConstPast\DontGrab\android-build\src\debug\res

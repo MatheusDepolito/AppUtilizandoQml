@@ -1,0 +1,4 @@
+module Buttons
+
+ButtonColl 1.0 ButtonColl.qml
+ButtonIcon 1.0 ButtonIcon.qml
